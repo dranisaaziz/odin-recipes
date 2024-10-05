@@ -1,0 +1,55 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/519345326/vector/hand-drawn-food-seamless-pattern-sketch-kitchen-doodle.jpg?s=612x612&w=0&k=20&c=at6zyckPjAOAOxAqIGZl1ADtR-lE5YyGn6WTrvXeqpU=);
+    font-family: sans-serif;
+    padding: 40px;
+}
+
+section{
+    background-color: rgba(234, 232, 232, 0.759);
+    padding:40px;
+}
+.title{
+    text-align: center;
+    font-family: "times new roman";
+    margin-top: 0%;
+    font-size: 40px;
+}
+
+img{
+    width:100%;
+    height:auto;
+}
+
+figcaption{
+    font-size: 14px;
+    text-align: center;
+
+}
+footer {
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  .address {
+    margin-bottom: 5px;
+    font-size:12px;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
+  ul{
+    object-position: center;
+  }
